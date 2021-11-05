@@ -1181,6 +1181,21 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/eb-garamond@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/eb-garamond/-/eb-garamond-4.5.0.tgz#01669e9ff98493b7fc4c149befb9254fb89ffc79"
+  integrity sha512-mTECLbyBCVpdozxhEBLukDfij5aQE/6zE5yqms4kvO1I2DL7xiSGNiokFbFFYjPcAAVYqnhRWko2EEY5XI2RPg==
+
+"@fontsource/marcellus@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/marcellus/-/marcellus-4.5.0.tgz#6d73a8ab745220bdb66fc7615cc16ab25e13a771"
+  integrity sha512-6yScz4ZCCTDIxxMfCL49g5xAbNXExiGkGGYiiZS92lUnEsNvtPRDa6YGCdim2Bu1CTb+t0tG+C87S3xn4d56uQ==
+
+"@fontsource/roboto@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/roboto/-/roboto-4.5.1.tgz#63f7b783f755d8f6727eb60198627e7e1be3ac20"
+  integrity sha512-3mhfL+eNPG/woMNqwD/OHaW5qMpeGEBsDwzmhFmjB1yUV+M+M9P0NhP/AyHvnGz3DrqkvZ7CPzNMa+UkVLeELg==
+
 "@fontsource/saira@^4.5.1":
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/@fontsource/saira/-/saira-4.5.1.tgz#c6f5370a6d2430516d4da23b596db0c342ac2c04"

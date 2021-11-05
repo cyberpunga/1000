@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "author": "@piducancore",
   "dependencies": {
+    "@fontsource/eb-garamond": "^4.5.0",
+    "@fontsource/marcellus": "^4.5.0",
+    "@fontsource/roboto": "^4.5.1",
     "@fontsource/saira": "^4.5.1",
     "@theme-ui/presets": "^0.11.3",
     "@theme-ui/prism": "^0.11.3",
