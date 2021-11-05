@@ -7,7 +7,15 @@ export default function Template(props) {
   return (
     <Flex sx={{ height: "100vh", width: "100vw", p: 3, overflowX: "auto" }}>
       <div sx={{ m: "auto" }}>
-        <pre sx={{ fontSize: 6, fontFamily: "heading" }}>{verso}</pre>
+        <pre
+          sx={{
+            fontSize: 6,
+            fontFamily: "heading",
+            whiteSpace: "break-spaces",
+          }}
+        >
+          {verso}
+        </pre>
         <Themed.p>
           {autor ? autor : "Autor desconocido"}
           {fuente ? <React.Fragment>, «{fuente}»</React.Fragment> : null}
