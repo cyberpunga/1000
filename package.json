@@ -1,5 +1,5 @@
 {
-  "name": "my-favorite-seed",
+  "name": "1000",
   "private": true,
   "description": "Another project to get started fast, with the technologies I hate the least 🌱",
   "version": "0.1.0",
@@ -8,9 +8,7 @@
     "@fontsource/eb-garamond": "^4.5.0",
     "@fontsource/marcellus": "^4.5.0",
     "@fontsource/roboto": "^4.5.1",
-    "@fontsource/saira": "^4.5.1",
     "@theme-ui/presets": "^0.11.3",
-    "@theme-ui/prism": "^0.11.3",
     "gatsby": "^4.0.0",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-manifest": "^4.0.0",
@@ -19,11 +17,12 @@
     "gatsby-plugin-sharp": "^4.0.0",
     "gatsby-plugin-theme-ui": "^0.11.3",
     "gatsby-source-filesystem": "^4.0.0",
-    "gatsby-transformer-sharp": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
-    "theme-ui": "^0.11.3"
+    "react-scrollama": "^2.2.16",
+    "theme-ui": "^0.11.3",
+    "zustand": "^3.6.4"
   },
   "devDependencies": {
     "prettier": "^2.4.1"
@@ -44,9 +43,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/piducancore/my-favorite-seed"
+    "url": "https://github.com/piducancore/1000"
   },
   "bugs": {
-    "url": "https://github.com/piducancore/my-favorite-seed/issues"
+    "url": "https://github.com/piducancore/1000/issues"
   }
 }
