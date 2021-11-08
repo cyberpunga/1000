@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Mil versos chilenos`,
-    description: `Esta es una edición electrónica de «Mil versos chilenos», una recopilación realizada por Felipe Cussen y Marcela Labraña.`,
+    description: `This is a javascript implementation of «Mil versos chilenos», a poetry compilation by Felipe Cussen and Marcela Labraña.`,
     author: `@piducancore`,
-    siteUrl: `https://mil-versos-chilenos.vercel.app`,
+    url: `https://mil-versos-chilenos.vercel.app`,
+    image: `/luca.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
