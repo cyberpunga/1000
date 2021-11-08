@@ -4,7 +4,7 @@ import React, { useEffect } from "react"
 import { Scrollama, Step } from "react-scrollama"
 import { navigate } from "gatsby"
 import { useList } from "../useList"
-import { createPath } from "../../utils"
+import { createPath } from "../utils"
 import Seo from "./seo"
 
 export default function Layout({ pageContext }) {

@@ -1,5 +1,5 @@
 const data = require("./data.json")
-const { createPath } = require("./utils")
+const { createPath } = require("./src/utils")
 
 exports.createPages = async ({ actions }) => {
   const { createPage } = actions
