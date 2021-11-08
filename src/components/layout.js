@@ -36,8 +36,8 @@ const Layout = ({ children, path, pageContext }) => {
       <Scrollama
         onStepEnter={onStepEnter}
         onStepExit={onStepExit}
-        offset={0.1}
-        debug
+        offset={0}
+        // debug
       >
         <Step data={{ hola: "mundo" }}>
           <div sx={{ height: "10vh" }}></div>
@@ -50,7 +50,7 @@ const Layout = ({ children, path, pageContext }) => {
                 minHeight: "80vh",
                 width: "100%",
                 p: 3,
-                border: `1px solid red`,
+                // border: `1px solid red`,
               }}
             >
               <div sx={{ m: "auto" }}>
