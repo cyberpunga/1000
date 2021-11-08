@@ -1,5 +1,5 @@
 const data = require("./data.json")
-const slugify = require("slugify")
+const { createPath } = require("./utils")
 
 exports.createPages = async ({ actions }) => {
   const { createPage } = actions
@@ -10,7 +10,7 @@ exports.createPages = async ({ actions }) => {
     const next = data[nextIndex]
     const prev = data[prevIndex]
     createPage({
-      path: "/" + slugify(curr.verso.toLowerCase()),
+      path: createPath(curr.verso),
       component: require.resolve(`./src/templates/page.js`),
       context: { ...curr, next, prev },
     })

@@ -4,20 +4,20 @@ import React, { useEffect } from "react"
 import { Scrollama, Step } from "react-scrollama"
 import { navigate } from "gatsby"
 import { useList } from "../useList"
-import slugify from "slugify"
+import { createPath } from "../../utils"
 import Seo from "./seo"
 
-const Layout = ({ pageContext }) => {
+export default function Layout({ pageContext }) {
   const { list, add } = useList()
   useEffect(() => add(pageContext), [add, pageContext])
 
   const onStepExit = ({ direction }) => {
     if (direction === "down") {
-      const next = "/" + slugify(pageContext.next.verso.toLowerCase())
+      const next = createPath(pageContext.next.verso)
       navigate(next, { state: { disableScrollUpdate: true } })
     }
     if (direction === "up") {
-      const prev = "/" + slugify(pageContext.prev.verso.toLowerCase())
+      const prev = createPath(pageContext.prev.verso)
       navigate(prev, { state: { disableScrollUpdate: true } })
     }
   }
@@ -31,15 +31,7 @@ const Layout = ({ pageContext }) => {
         </Step>
         {list.map(({ verso, autor, fuente }, stepIndex) => (
           <Step data={{ verso, autor, fuente }} key={stepIndex}>
-            <div
-              sx={{
-                display: "flex",
-                minHeight: "80vh",
-                width: "100%",
-                p: 3,
-                // border: `1px solid red`,
-              }}
-            >
+            <Flex sx={{ minHeight: "80vh", width: "100%", p: 3 }}>
               <div sx={{ m: "auto" }}>
                 <pre
                   sx={{
@@ -57,7 +49,7 @@ const Layout = ({ pageContext }) => {
                   ) : null}
                 </Themed.p>
               </div>
-            </div>
+            </Flex>
           </Step>
         ))}
       </Scrollama>
@@ -67,5 +59,3 @@ const Layout = ({ pageContext }) => {
     </main>
   )
 }
-
-export default Layout
