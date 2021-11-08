@@ -11,21 +11,21 @@ const Layout = ({ children, path, pageContext }) => {
   useEffect(() => add(pageContext), [add, pageContext])
 
   const current = parseInt(path.replace(/\//, ""))
-  const next = current + 1
-  const prev = current - 1
 
   const onStepEnter = a => console.log(a)
 
   const onStepExit = ({ direction }) => {
     if (direction === "down") {
-      console.log("go next")
-      navigate("/" + next, {
+      const next = current + 1
+      const go = next === 1001 ? 1 : next
+      navigate("/" + go, {
         state: { disableScrollUpdate: true },
       })
     }
     if (direction === "up") {
-      console.log("go back")
-      navigate("/" + prev, {
+      const prev = current - 1
+      const go = prev === 0 ? 1000 : prev
+      navigate("/" + go, {
         state: { disableScrollUpdate: true },
       })
     }
