@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Mil versos chilenos`,
+    description: `Esta es una edición electrónica de «Mil versos chilenos», una recopilación realizada por Felipe Cussen y Marcela Labraña.`,
+    author: `@piducancore`,
+    siteUrl: `https://mil-versos-chilenos.vercel.app`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,15 +19,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Mil versos chilenos`,
+        short_name: `Mil versos chilenos`,
         start_url: `/`,
-        background_color: `#663399`,
+        background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/luca.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -3,8 +3,8 @@ import { jsx, Themed, Spinner, Flex } from "theme-ui"
 import React, { useEffect } from "react"
 import { Scrollama, Step } from "react-scrollama"
 import { navigate } from "gatsby"
-
 import { useList } from "../useList"
+import Seo from "./seo"
 
 const Layout = ({ children, path, pageContext }) => {
   const { list, add } = useList()
@@ -33,6 +33,7 @@ const Layout = ({ children, path, pageContext }) => {
 
   return (
     <main sx={{ width: "100%", flex: "1 1 auto", variant: "layout.main" }}>
+      <Seo title={current.toString()} />
       <Scrollama
         onStepEnter={onStepEnter}
         onStepExit={onStepExit}
