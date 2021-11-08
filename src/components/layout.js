@@ -4,42 +4,28 @@ import React, { useEffect } from "react"
 import { Scrollama, Step } from "react-scrollama"
 import { navigate } from "gatsby"
 import { useList } from "../useList"
+import slugify from "slugify"
 import Seo from "./seo"
 
-const Layout = ({ children, path, pageContext }) => {
+const Layout = ({ pageContext }) => {
   const { list, add } = useList()
   useEffect(() => add(pageContext), [add, pageContext])
 
-  const current = parseInt(path.replace(/\//, ""))
-
-  const onStepEnter = a => console.log(a)
-
   const onStepExit = ({ direction }) => {
     if (direction === "down") {
-      const next = current + 1
-      const go = next === 1001 ? 1 : next
-      navigate("/" + go, {
-        state: { disableScrollUpdate: true },
-      })
+      const next = "/" + slugify(pageContext.next.verso.toLowerCase())
+      navigate(next, { state: { disableScrollUpdate: true } })
     }
     if (direction === "up") {
-      const prev = current - 1
-      const go = prev === 0 ? 1000 : prev
-      navigate("/" + go, {
-        state: { disableScrollUpdate: true },
-      })
+      const prev = "/" + slugify(pageContext.prev.verso.toLowerCase())
+      navigate(prev, { state: { disableScrollUpdate: true } })
     }
   }
 
   return (
     <main sx={{ width: "100%", flex: "1 1 auto", variant: "layout.main" }}>
-      <Seo title={current.toString()} />
-      <Scrollama
-        onStepEnter={onStepEnter}
-        onStepExit={onStepExit}
-        offset={0}
-        // debug
-      >
+      <Seo title={pageContext.verso} />
+      <Scrollama onStepExit={onStepExit} offset={0}>
         <Step data={{ hola: "mundo" }}>
           <div sx={{ height: "10vh" }}></div>
         </Step>

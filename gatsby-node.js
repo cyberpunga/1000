@@ -1,13 +1,18 @@
 const data = require("./data.json")
+const slugify = require("slugify")
 
 exports.createPages = async ({ actions }) => {
   const { createPage } = actions
 
-  data.forEach((node, index) => {
+  data.forEach((curr, index) => {
+    const nextIndex = index === data.length + 1 ? 1 : index + 1
+    const prevIndex = index === 0 ? data.length : index - 1
+    const next = data[nextIndex]
+    const prev = data[prevIndex]
     createPage({
-      path: "/" + (index + 1),
+      path: "/" + slugify(curr.verso.toLowerCase()),
       component: require.resolve(`./src/templates/page.js`),
-      context: node,
+      context: { ...curr, next, prev },
     })
   })
 }
