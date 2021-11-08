@@ -5,8 +5,8 @@ exports.createPages = async ({ actions }) => {
 
   data.forEach((node, index) => {
     createPage({
-      path: "/" + parseInt(index + 1),
-      component: require.resolve(`./src/components/template.js`),
+      path: "/" + (index + 1),
+      component: require.resolve(`./src/templates/page.js`),
       context: node,
     })
   })
