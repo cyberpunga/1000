@@ -5,7 +5,9 @@ import { Scrollama, Step } from "react-scrollama"
 import { navigate } from "gatsby"
 import { useList } from "../useList"
 import { createPath } from "../utils"
+
 import Seo from "./seo"
+import Share from "./share"
 
 export default function Layout({ pageContext }) {
   const { list, add } = useList()
@@ -38,6 +40,7 @@ export default function Layout({ pageContext }) {
                       fontSize: 6,
                       fontFamily: "heading",
                       whiteSpace: "break-spaces",
+                      mb: 0,
                     }}
                   >
                     {verso}
@@ -46,6 +49,7 @@ export default function Layout({ pageContext }) {
                     {autor ? autor : "Autor desconocido"}
                     {fuente ? <React.Fragment>, «{fuente}»</React.Fragment> : null}
                   </Themed.p>
+                  <Share link={"https://mil-versos-chilenos.vercel.app" + createPath(verso)} message={verso} />
                 </div>
               </Flex>
             </Step>
