@@ -34,6 +34,33 @@ const theme = merge(base, {
       px: 3,
     },
   },
+  forms: {
+    label: {
+      fontFamily: "heading",
+      fontSize: 4,
+      fontWeight: "bold",
+      mt: 3,
+    },
+    input: {
+      fontFamily: "heading",
+      fontSize: 5,
+      "&:focus": {
+        // borderColor: "primary",
+        boxShadow: t => `0 0 0 2px ${t.colors.primary}`,
+        outline: "none",
+      },
+    },
+    textarea: {
+      resize: "none",
+      fontFamily: "heading",
+      fontSize: 5,
+      "&:focus": {
+        // borderColor: "primary",
+        boxShadow: t => `0 0 0 2px ${t.colors.primary}`,
+        outline: "none",
+      },
+    },
+  },
   styles: {
     a: {
       textDecoration: "none",
