@@ -63,7 +63,8 @@ const theme = merge(base, {
   },
   styles: {
     a: {
-      textDecoration: "none",
+      cursor: "pointer",
+      textDecoration: "underline",
       ":hover": {
         color: "secondary",
       },
