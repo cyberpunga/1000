@@ -7,7 +7,7 @@ import "@fontsource/marcellus/400.css"
 
 const theme = merge(base, {
   colors: {
-    primary: "#6d2f9c",
+    primary: "black",
     secondary: "#ffae1e",
   },
   fontSizes: [10, 12, 14, 16, 22, 24, 32, 48, 64, 96],
@@ -42,7 +42,7 @@ const theme = merge(base, {
       mt: 3,
     },
     input: {
-      fontFamily: "heading",
+      fontFamily: "body",
       fontSize: 5,
       "&:focus": {
         // borderColor: "primary",
@@ -52,7 +52,7 @@ const theme = merge(base, {
     },
     textarea: {
       resize: "none",
-      fontFamily: "heading",
+      fontFamily: "body",
       fontSize: 5,
       "&:focus": {
         // borderColor: "primary",
