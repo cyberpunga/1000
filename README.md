@@ -1,3 +1,3 @@
-## my-favorite-seed
+## mil-versos-chilenos
 
-Another project to get started fast, with the technologies I hate the least 🌱
+Esta es una implementación en javascript del libro _Mil versos chilenos_, una recopilación de versos elaborada por Felipe Cussen y Marcela Labraña.
