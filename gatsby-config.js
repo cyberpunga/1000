@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/1000`,
   siteMetadata: {
     title: `Mil versos chilenos`,
     description: `This is a javascript implementation of «Mil versos chilenos», a poetry compilation by Felipe Cussen and Marcela Labraña.`,
