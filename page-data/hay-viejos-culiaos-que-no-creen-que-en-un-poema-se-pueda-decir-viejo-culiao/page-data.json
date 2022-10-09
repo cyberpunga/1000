@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/hay-viejos-culiaos-que-no-creen-que-en-un-poema-se-pueda-decir-viejo-culiao",
+    "result": {"pageContext":{"verso":"hay viejos culiaos que no creen que en un poema se pueda decir:\nviejo culiao","autor":"Mauricio Redolés","fuente":"No importa","next":{"verso":"Acerca de aquellos hombres\nnunca quisiera escribir\nun poema","autor":"Heddy Navarro","fuente":"Acerca de aquellos hombres"},"prev":{"verso":"Los que marcan los libros mueren jóvenes","autor":"Javier Bello","fuente":"La jaula de la sentencia"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

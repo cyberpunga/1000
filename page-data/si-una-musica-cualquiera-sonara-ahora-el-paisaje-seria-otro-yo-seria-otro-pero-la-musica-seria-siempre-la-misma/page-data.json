@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/si-una-musica-cualquiera-sonara-ahora-el-paisaje-seria-otro-yo-seria-otro-pero-la-musica-seria-siempre-la-misma",
+    "result": {"pageContext":{"verso":"si una música cualquiera sonara ahora\nel paisaje sería otro\nyo sería otro\npero la música sería siempre la misma.","autor":"Sergio Coddou","fuente":"Minimalist Lullaby","next":{"verso":"En esta playa muere la ola de la música.","autor":"Salvador Reyes","fuente":"Valparaíso"},"prev":{"verso":"Cerca del mar la música es más sabia","autor":"Jorge González Bastías","fuente":"Cerca del mar la música es más sabia"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

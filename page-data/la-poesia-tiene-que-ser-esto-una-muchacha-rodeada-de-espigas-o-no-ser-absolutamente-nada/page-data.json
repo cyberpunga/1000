@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/la-poesia-tiene-que-ser-esto-una-muchacha-rodeada-de-espigas-o-no-ser-absolutamente-nada",
+    "result": {"pageContext":{"verso":"La poesía tiene que ser esto:\nUna muchacha rodeada de espigas\nO no ser absolutamente nada.","autor":"Nicanor Parra","fuente":"Manifiesto","next":{"verso":"La poesía entra en el sueño\ncomo un buzo muerto\nen el ojo de Dios.","autor":"Roberto Bolaño","fuente":"Resurrección"},"prev":{"verso":"La poesía es como aguardar la compañía de los otros","autor":"Efraín Barquero","fuente":"El poema en el poema"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/los-verdaderos-poemas-son-incendios",
+    "result": {"pageContext":{"verso":"Los verdaderos poemas son incendios.","autor":"Vicente Huidobro","fuente":"Altazor","next":{"verso":"No hay peor poema que el que no se escribe, me dije","autor":"Waldo Rojas","fuente":"Moscas"},"prev":{"verso":"Los verdaderos poemas son los póstumos","autor":"Efraín Barquero","fuente":"El poema en el poema"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

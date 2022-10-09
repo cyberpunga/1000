@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/puedo-escribir-los-versos-mas-tristes-esta-noche",
+    "result": {"pageContext":{"verso":"Puedo escribir los versos más tristes esta noche.","autor":"Pablo Neruda","fuente":"Poema 20","next":{"verso":"Es como empezar escribiendo ES\n...Es ...es ...es...\nes escribir los verbos más tristes esta noche\ncolocando a todos enfrente\nes escribir los versos más tristes «tonight»","autor":"David Añiñir","fuente":"Temporada Apológika"},"prev":{"verso":"El amor del poeta es la flor del espino.","autor":"Max Jara","fuente":"Adolescencia"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

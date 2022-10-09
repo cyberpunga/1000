@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/hoy-este-dia-fue-una-copa-plena-hoy-este-dia-fue-la-inmensa-ola-hoy-fue-toda-la-tierra",
+    "result": {"pageContext":{"verso":"Hoy, este día fue una copa plena,\nhoy, este día fue la inmensa ola,\nhoy, fue toda la tierra.","autor":"Pablo Neruda","fuente":"8 de septiembre","next":{"verso":"Eso fue la felicidad:\ndibujar en la escarcha figuras sin sentido\nsabiendo que no durarían nada","autor":"Jorge Teillier","fuente":"Bajo el cielo nacido tras la lluvia"},"prev":{"verso":"¿Escucháis madurar los duraznos a la hora del estío,\na la venida del sol, mientras un príncipe danza\nen vísperas de su coronación?","autor":"Eduardo Anguita","fuente":"Venus en el pudridero"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/es-de-noche-no-piensa-ser-de-noche-es-de-dia-no-piensa-ser-de-dia",
+    "result": {"pageContext":{"verso":"Es de noche, no piensa ser de noche\nEs de día, no piensa ser de día","autor":"Nicanor Parra","fuente":"Saranguaco","next":{"verso":"Esta noche es la noche perdida\nEsta noche es el día siguiente.","autor":"Alejandro Zambra","fuente":"La noche perdida"},"prev":{"verso":"Buenos días día\nBuenas noches noche","autor":"Vicente Huidobro","fuente":"Noche y día"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

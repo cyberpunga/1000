@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/escribid-mi-nombre-en-el-libro-de-la-noche",
+    "result": {"pageContext":{"verso":"Escribid mi nombre en el libro de la noche","autor":"Carlos de Rokha","fuente":"Cascada de cepa","next":{"verso":"Quizá cuando la noche ya se vaya\nni un rastro haya de mí sobre la playa.","autor":"Pedro Antonio González","fuente":"Asteroides"},"prev":{"verso":"Todo se irá, la tarde, el sol, la vida,\nserá el triunfo del mal, lo irreparable","autor":"Alberto Valdivia","fuente":"Todo se irá..."}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

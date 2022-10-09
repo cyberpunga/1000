@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/y-aqui-termina-este-poema-terminable",
+    "result": {"pageContext":{"verso":"Y aquí termina este poema terminable","autor":"Braulio Arenas","fuente":"Todo es posible cuando la vida es imposible","next":{"verso":"La poesía terminó conmigo.","autor":"Nicanor Parra","fuente":"La poesía terminó conmigo"},"prev":{"verso":"Mi poesía puede perfectamente no conducir a ninguna parte","autor":"Nicanor Parra","fuente":"Advertencia al lector"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

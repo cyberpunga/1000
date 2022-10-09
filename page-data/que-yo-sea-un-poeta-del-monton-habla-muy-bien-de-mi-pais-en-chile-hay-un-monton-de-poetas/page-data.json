@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/que-yo-sea-un-poeta-del-monton-habla-muy-bien-de-mi-pais-en-chile-hay-un-monton-de-poetas",
+    "result": {"pageContext":{"verso":"Que yo sea un poeta del montón\nhabla muy bien de mi país: en Chile\nhay un montón de poetas.","autor":"Jorge Montealegre","fuente":"Frutos del país","next":{"verso":"Mi vanidad me dice que es más noble\ny decoroso prolongar la vida\nsin posar de poeta.","autor":"Antonio Cussen","fuente":"Mecenas"},"prev":{"verso":"Hace muchos siglos yo también fui un poeta joven","autor":"Javier Campos","fuente":"El poeta joven"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

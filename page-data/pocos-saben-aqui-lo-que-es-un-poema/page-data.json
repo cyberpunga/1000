@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/pocos-saben-aqui-lo-que-es-un-poema",
+    "result": {"pageContext":{"verso":"Pocos saben aquí lo que es un poema","autor":"Jorge Teillier","fuente":"El poeta de este mundo","next":{"verso":"Un poema es una cosa que será.","autor":"Vicente Huidobro","fuente":"Altazor"},"prev":{"verso":"Acerca de aquellos hombres\nnunca quisiera escribir\nun poema","autor":"Heddy Navarro","fuente":"Acerca de aquellos hombres"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

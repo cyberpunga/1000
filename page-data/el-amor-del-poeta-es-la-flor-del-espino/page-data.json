@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/el-amor-del-poeta-es-la-flor-del-espino",
+    "result": {"pageContext":{"verso":"El amor del poeta es la flor del espino.","autor":"Max Jara","fuente":"Adolescencia","next":{"verso":"Puedo escribir los versos más tristes esta noche.","autor":"Pablo Neruda","fuente":"Poema 20"},"prev":{"verso":"Pues éste es el destino de las cosas:\nPor cada mil espinas, una rosa.","autor":"Carlos Collins Bunster","fuente":"Corazón abierto"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

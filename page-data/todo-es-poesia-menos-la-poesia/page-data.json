@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/todo-es-poesia-menos-la-poesia",
+    "result": {"pageContext":{"verso":"Todo es poesía\nmenos la poesía","autor":"Nicanor Parra","fuente":"Artefactos","next":{"verso":"EVERYTHING IS POETRY","autor":"Guillermo Deisler","fuente":""},"prev":{"verso":"la poesía\nTerminóo conmigo.","autor":"Rodrigo Lira","fuente":"Ars poetique, deux"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

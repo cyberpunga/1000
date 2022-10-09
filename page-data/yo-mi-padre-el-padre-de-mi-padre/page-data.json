@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/yo-mi-padre-el-padre-de-mi-padre",
+    "result": {"pageContext":{"verso":"Yo, mi padre, el padre de mi padre.","autor":"Javier Bello","fuente":"Jaula del padre","next":{"verso":"Nos educaron para atrás padre\nBien preparados, sin imaginación\nY malos para la cama.","autor":"Diego Maquieira","fuente":"El gallinero"},"prev":{"verso":"Gracias, padre,\npor ésta, la tuya,\nroja ardiente y pura,\npor esta mi sangre!","autor":"Pedro Prado","fuente":"Mi patrimonio"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/todo-lo-que-digo-es-transparente",
+    "result": {"pageContext":{"verso":"Todo lo que digo es transparente.","autor":"Nina Donoso","fuente":"Poema de la esposa","next":{"verso":"APOSTARÍA MI CABEZA\nA QUE ME ENTIENDEN.","autor":"Jorge Torres","fuente":"Apostaría mi cabeza"},"prev":{"verso":"Hablar con sencillez es un don de los cielos","autor":"Daniel de la Vega","fuente":"Las palabras"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

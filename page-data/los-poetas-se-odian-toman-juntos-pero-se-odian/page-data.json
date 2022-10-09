@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/los-poetas-se-odian-toman-juntos-pero-se-odian",
+    "result": {"pageContext":{"verso":"los poetas se odian\ntoman juntos pero se odian","autor":"Malú Urriola","fuente":"Gatos","next":{"verso":"El poeta es un simple locutor\nél no responde por las malas noticias","autor":"Nicanor Parra","fuente":"Artefactos"},"prev":{"verso":"Poetas que no están ni ahí con nadie\nporque nadie está ni ahí con ellos.","autor":"Teresa Calderón","fuente":"Poetas"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

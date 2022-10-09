@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/acerca-de-aquellos-hombres-nunca-quisiera-escribir-un-poema",
+    "result": {"pageContext":{"verso":"Acerca de aquellos hombres\nnunca quisiera escribir\nun poema","autor":"Heddy Navarro","fuente":"Acerca de aquellos hombres","next":{"verso":"Pocos saben aquí lo que es un poema","autor":"Jorge Teillier","fuente":"El poeta de este mundo"},"prev":{"verso":"hay viejos culiaos que no creen que en un poema se pueda decir:\nviejo culiao","autor":"Mauricio Redolés","fuente":"No importa"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

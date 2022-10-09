@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/somos-todos-pasajeros-del-titanic",
+    "result": {"pageContext":{"verso":"Somos todos pasajeros del Titanic.","autor":"Óscar Hahn","fuente":"La muerte es una buena maestra","next":{"verso":"En la muerte están todos vestidos de agua.","autor":"Marta de Munita","fuente":"En el agua"},"prev":{"verso":"Para qué hablar?... Sigamos el camino\nmudos hasta morir!... Es el destino!...","autor":"Carlos R. Mondaca","fuente":"Soledad..."}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

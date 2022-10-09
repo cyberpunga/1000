@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/todos-los-vecinos-de-mi-barrio-duermen-siesta-pero-hay-chicos-que-golpean-puertas-fastidiando-piden-pan-y-no-dejan-escribir-los-mejores-poemas-sobre-el-hambre",
+    "result": {"pageContext":{"verso":"Todos los vecinos de mi barrio duermen siesta,\npero hay chicos que golpean puertas fastidiando:\npiden pan y no dejan\nescribir los mejores poemas sobre el hambre.","autor":"Jorge Montealegre","fuente":"Alta poesía","next":{"verso":"Está bien\nestá bien\ntodo está bien\nsólo que el hambre mata niños","autor":"Sergio Hernández","fuente":"Está bien"},"prev":{"verso":"A la Gente Pobre se le comunica\nQue hay Cebollas para Ella en la Municipalidad de Santiago.","autor":"Rodrigo Lira","fuente":"Comunicado"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

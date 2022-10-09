@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/gracias-a-la-vida-que-me-ha-dado-tanto",
+    "result": {"pageContext":{"verso":"Gracias a la vida que me ha dado tanto","autor":"Violeta Parra","fuente":"Gracias a la vida","next":{"verso":"Sólo me dio la vida una rosa y un nombre.","autor":"Alberto Baeza Flores","fuente":"Oigo caer el agua ..."},"prev":{"verso":"La muerte es la suma infinita de la vida\ny la vida es la suma infinita de la nada.","autor":"Eduardo Anguita","fuente":"La muerte es la suma de muchas vidas"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

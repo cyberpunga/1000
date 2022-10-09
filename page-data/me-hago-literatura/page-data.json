@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/me-hago-literatura",
+    "result": {"pageContext":{"verso":"Me hago literatura.","autor":"Enrique Lihn","fuente":"Nathalie","next":{"verso":"Había que pintar el primer libro pero cuál pintar","autor":"Soledad Fariña","fuente":"Todo tranquilo, inmóvil"},"prev":{"verso":"La mano del dolor quebró mi lira.","autor":"Andrés Bello","fuente":"Recuerdo"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

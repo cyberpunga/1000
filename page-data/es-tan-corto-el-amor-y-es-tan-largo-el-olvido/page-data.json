@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/es-tan-corto-el-amor-y-es-tan-largo-el-olvido",
+    "result": {"pageContext":{"verso":"Es tan corto el amor, y es tan largo el olvido.","autor":"Pablo Neruda","fuente":"Poema 20","next":{"verso":"es tan corta la minifalda\ny es tan largo el olvido","autor":"Claudio Bertoni","fuente":"Una vez más"},"prev":{"verso":"te amo cuando me llamas,\nte amo cuando me olvidas.","autor":"Daniel de la Vega","fuente":"Devotamente a ti"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/la-poesia-terminoo-conmigo",
+    "result": {"pageContext":{"verso":"la poesía\nTerminóo conmigo.","autor":"Rodrigo Lira","fuente":"Ars poetique, deux","next":{"verso":"Todo es poesía\nmenos la poesía","autor":"Nicanor Parra","fuente":"Artefactos"},"prev":{"verso":"La poesía terminó conmigo.","autor":"Nicanor Parra","fuente":"La poesía terminó conmigo"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

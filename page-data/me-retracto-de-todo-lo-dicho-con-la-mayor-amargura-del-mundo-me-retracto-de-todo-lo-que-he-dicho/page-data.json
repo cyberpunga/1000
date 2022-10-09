@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/me-retracto-de-todo-lo-dicho-con-la-mayor-amargura-del-mundo-me-retracto-de-todo-lo-que-he-dicho",
+    "result": {"pageContext":{"verso":"Me retracto de todo lo dicho.\nCon la mayor amargura del mundo\nMe retracto de todo lo que he dicho.","autor":"Nicanor Parra","fuente":"Me retracto de todo lo dicho","next":{"verso":"Todo lo que se diga de mí es verdadero\nY la verdad es que no me importa mucho.","autor":"Jorge Teillier","fuente":"Pequeña confesión"},"prev":{"verso":"Memoriza este viejo precepto, nada pierdes:\nen la desesperación, modérate.","autor":"Cristóbal Joannon","fuente":"Cama de soltero"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

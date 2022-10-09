@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/a-lo-mejor-debiera-uno-callarse-pero-no",
+    "result": {"pageContext":{"verso":"A lo mejor debiera uno callarse\nPero no.","autor":"Carlos Trujillo","fuente":"A lo mejor debiera uno callarse","next":{"verso":"No sé lo que voy a decir. Ignoro lo que voy a cantar.\nMi voz está aún en el fondo de mí mismo.","autor":"Pedro Prado","fuente":"Mi canto"},"prev":{"verso":"Ninguna frase, ninguna coma\nningún texto, ningún autor\nningún delito, ningún rencor\nninguna, ninguna canción de amor.","autor":"Juan Luis Martínez","fuente":"Un texto de nadie"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

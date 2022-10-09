@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/la-poesia-termino-conmigo",
+    "result": {"pageContext":{"verso":"La poesía terminó conmigo.","autor":"Nicanor Parra","fuente":"La poesía terminó conmigo","next":{"verso":"la poesía\nTerminóo conmigo.","autor":"Rodrigo Lira","fuente":"Ars poetique, deux"},"prev":{"verso":"Y aquí termina este poema terminable","autor":"Braulio Arenas","fuente":"Todo es posible cuando la vida es imposible"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

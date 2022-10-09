@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/esta-noche-es-la-noche-perdida-esta-noche-es-el-dia-siguiente",
+    "result": {"pageContext":{"verso":"Esta noche es la noche perdida\nEsta noche es el día siguiente.","autor":"Alejandro Zambra","fuente":"La noche perdida","next":{"verso":"¡Todo estaba mudo, todo estaba muerto,\ntodo estaba acaso lo mismo que yo!","autor":"Jorge González Bastías","fuente":"En la aldea"},"prev":{"verso":"Es de noche, no piensa ser de noche\nEs de día, no piensa ser de día","autor":"Nicanor Parra","fuente":"Saranguaco"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

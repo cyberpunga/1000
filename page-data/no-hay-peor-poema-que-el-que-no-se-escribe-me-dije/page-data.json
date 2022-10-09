@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/no-hay-peor-poema-que-el-que-no-se-escribe-me-dije",
+    "result": {"pageContext":{"verso":"No hay peor poema que el que no se escribe, me dije","autor":"Waldo Rojas","fuente":"Moscas","next":{"verso":"usted es la primera vez que lee un poema así","autor":"Erick Polhammer","fuente":"Usted"},"prev":{"verso":"Los verdaderos poemas son incendios.","autor":"Vicente Huidobro","fuente":"Altazor"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

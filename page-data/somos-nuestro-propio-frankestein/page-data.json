@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/somos-nuestro-propio-frankestein",
+    "result": {"pageContext":{"verso":"somos nuestro propio\nFrankestein","autor":"Gonzalo Muñoz","fuente":"La gran marcha de los héroes","next":{"verso":"aquí por ejemplo todo\nresulta con drama","autor":"Kurt Folch","fuente":"Post tenebras lux"},"prev":{"verso":"eso somos: derrumbe del derrumbe","autor":"Cristián Vila","fuente":"Código mayor"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

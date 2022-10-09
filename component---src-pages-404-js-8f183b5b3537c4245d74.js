@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_1000=self.webpackChunk_1000||[]).push([[883],{9616:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var u=n(7294),r=n(5444),a=n(3751);function o(e){return(0,u.useEffect)((function(){return(0,r.navigate)("/dulce-patria-recibe-los-votos-con-que-chile-en-tus-aras-juro-que-o-la-tumba-seras-de-los-libres-o-el-asilo-contra-la-opresion")})),u.createElement(a.Z,{title:""})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-8f183b5b3537c4245d74.js.map

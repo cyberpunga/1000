@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/yo-le-dije-al-autor-de-estos-sonetos-que-soy-una-camisa-de-once-varas",
+    "result": {"pageContext":{"verso":"Yo le dije al autor de estos sonetos\nque soy una camisa de once varas","autor":"Enrique Lihn","fuente":"Yo le dije al autor...","next":{"verso":"Fluya el verso perfecto y terminado,\npulido igual a joya, porque es joya","autor":"Guillermo Trejo","fuente":"Ars poética"},"prev":{"verso":"Bien, acepto tu reto, retórico soneto","autor":"Eduardo Llanos Melussa","fuente":"Parto con dolor"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

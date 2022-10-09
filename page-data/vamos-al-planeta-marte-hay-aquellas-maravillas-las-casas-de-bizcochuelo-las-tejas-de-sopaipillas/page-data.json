@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/vamos-al-planeta-marte-hay-aquellas-maravillas-las-casas-de-bizcochuelo-las-tejas-de-sopaipillas",
+    "result": {"pageContext":{"verso":"Vamos al planeta Marte,\nhay aquellas maravillas,\nlas casas de bizcochuelo,\nlas tejas de sopaipillas.","autor":"Amoroso Allende","fuente":"La tierra de Jauja","next":{"verso":"subíamos a acabar los eclipses del firmamento\nsubíamos como una cerilla que desataba la luz\ny encendía un faro entre las estrellas.","autor":"Diego Maquieira","fuente":"Deseclipse del firmamento"},"prev":{"verso":"Cuando todos se vayan a otros planetas\nyo quedaré en la ciudad abandonada\nbebiendo un último vaso de cerveza","autor":"Jorge Teillier","fuente":"Cuando todos se vayan"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/desmiento-que-se-haya-dicho-de-todo-en-la-poesia",
+    "result": {"pageContext":{"verso":"Desmiento que se haya dicho\nDe todo en la poesía.","autor":"Patricio Manns","fuente":"Con la razón y la fuerza","next":{"verso":"Para nuestros mayores\nLa poesía fue un objeto de lujo\nPero para nosotros\nEs un artículo de primera necesidad:\nNo podemos vivir sin poesía.","autor":"Nicanor Parra","fuente":"Manifiesto"},"prev":{"verso":"En poesía se permite todo.","autor":"Nicanor Parra","fuente":"Cartas del poeta que duerme en una silla"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

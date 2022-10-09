@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/canta-muchacha-cantemos-y-que-despues-arrojen-nuestro-canto-a-los-perros",
+    "result": {"pageContext":{"verso":"Canta muchacha,\nCantemos\nY que después arrojen nuestro canto a los perros.","autor":"Volodia Teitelboim","fuente":"Canto gregoriano por una mujer","next":{"verso":"El amor es un orgasmo entre dos lágrimas","autor":"Patricio Manns","fuente":"La vida total"},"prev":{"verso":"Cantemos esta noche cósmica, compañera, cantemos\nuna brillante fuga de sol.","autor":"Pedro Plonka","fuente":"Fuga de sol en la noche"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

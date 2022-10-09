@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/libros-y-libros-libros-hasta-las-nubes-pero-la-poesia-se-escribe-sola",
+    "result": {"pageContext":{"verso":"Libros y libros, libros hasta las nubes,\npero la poesía se escribe sola.","autor":"Gonzalo Rojas","fuente":"Victrola vieja","next":{"verso":"Lo que escribo no es para ti, ni para mí, ni para los iniciados.\nEs para la niña que nadie saca a bailar","autor":"Jorge Teillier","fuente":"Botella al mar"},"prev":{"verso":"Copiamos algunos buenos versos con mala ortografía","autor":"Antonia Torres","fuente":"Inventario de equipaje"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

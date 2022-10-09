@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/todos-ibamos-a-ser-rimbaud-todos-ibamos-a-ser-artaud-todos-ibamos-a-ser-edgar-allan-poe",
+    "result": {"pageContext":{"verso":"Todos íbamos a ser Rimbaud\nTodos íbamos a ser Artaud\nTodos íbamos a ser Edgar Allan Poe","autor":"Andrés Morales","fuente":"Los videntes","next":{"verso":"No soy Passolini pidiendo explicaciones\nNo soy Ginsberg expulsado de Cuba\nNo soy un marica disfrazado de poeta\nNo necesito disfraz","autor":"Pedro Lemebel","fuente":"Manifiesto"},"prev":{"verso":"Todas íbamos\nA ser reinas\nPero nos fuimos\nal chancho.","autor":"Claudio Bertoni","fuente":"Así es"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/esta-es-la-casa-aqui-la-tienes-con-la-puerta-abierta-y-los-fogones-encendidos",
+    "result": {"pageContext":{"verso":"Esta es la casa\naquí la tienes con la puerta abierta\ny los fogones encendidos.","autor":"Delia Domínguez","fuente":"Esta es la casa","next":{"verso":"Y adentro de mi cuerpo, me falta la casa\ncon huerto y todo, con utensilios inútiles.","autor":"Efraín Barquero","fuente":"Aquí y allá"},"prev":{"verso":"La cabra suelta en el huerto\nandaba comiendo albahaca.","autor":"Óscar Castro","fuente":"La cabra"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

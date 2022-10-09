@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/el-poeta-es-un-pequeno-dios",
+    "result": {"pageContext":{"verso":"El Poeta es un pequeño Dios","autor":"Vicente Huidobro","fuente":"Arte poética","next":{"verso":"Como Dios en sus hostias, yo me puse en mi verso","autor":"Jorge Hübner Bezanilla","fuente":"Prólogo"},"prev":{"verso":"No cree en Dios/ Ni en el pequeño Dios\nCree en el crimen perfecto","autor":"Bruno Vidal","fuente":"Arte marcial"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

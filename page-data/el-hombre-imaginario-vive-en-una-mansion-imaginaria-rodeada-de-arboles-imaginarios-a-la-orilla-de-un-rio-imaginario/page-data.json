@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/el-hombre-imaginario-vive-en-una-mansion-imaginaria-rodeada-de-arboles-imaginarios-a-la-orilla-de-un-rio-imaginario",
+    "result": {"pageContext":{"verso":"El hombre imaginario\nvive en una mansión imaginaria\nrodeada de árboles imaginarios\na la orilla de un río imaginario.","autor":"Nicanor Parra","fuente":"El hombre imaginario","next":{"verso":"En el país del bicentenario\nVive un poeta nonagenario\nContando chistes de anticuario","autor":"Marcelo Arancibia","fuente":"Habemus Parram"},"prev":{"verso":"Un hombre solo en una casa sola","autor":"Jorge Teillier","fuente":"Un hombre solo en una casa sola"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/buenos-dias-dia-buenas-noches-noche",
+    "result": {"pageContext":{"verso":"Buenos días día\nBuenas noches noche","autor":"Vicente Huidobro","fuente":"Noche y día","next":{"verso":"Es de noche, no piensa ser de noche\nEs de día, no piensa ser de día","autor":"Nicanor Parra","fuente":"Saranguaco"},"prev":{"verso":"Muere el día con una dulzura de mujer","autor":"Gabriela Mistral","fuente":"Tarde"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

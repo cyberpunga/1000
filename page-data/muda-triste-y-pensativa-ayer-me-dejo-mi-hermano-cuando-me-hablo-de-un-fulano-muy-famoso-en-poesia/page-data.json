@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/muda-triste-y-pensativa-ayer-me-dejo-mi-hermano-cuando-me-hablo-de-un-fulano-muy-famoso-en-poesia",
+    "result": {"pageContext":{"verso":"Muda, triste y pensativa\nayer me dejó mi hermano\ncuando me habló de un fulano\nmuy famoso en poesía.","autor":"Violeta Parra","fuente":"Décimas","next":{"verso":"La vida, ¿quién la entiende, Nicanor Parra?\nUna cosa es con violín y otra cosa es con guitarra.","autor":"Alberto Baeza Flores","fuente":"La vida, ¿quién la entiende, Nicanor Parra?"},"prev":{"verso":"Me gusta como suena eso de poeta Mackenna","autor":"Pablo Mackenna","fuente":"El poeta Mackenna"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

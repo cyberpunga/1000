@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/la-poesia-alcanza-para-todos",
+    "result": {"pageContext":{"verso":"La poesía alcanza para todos.","autor":"Nicanor Parra","fuente":"Manifiesto","next":{"verso":"La poesía no molesta a nadie","autor":"Nicanor Parra","fuente":"Versos sueltos"},"prev":{"verso":"Poesía hermética para el académico.\nPoesía elemental para el habitante de la ruka","autor":"Clemente Riedemann","fuente":"Calidad del suelo..."}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

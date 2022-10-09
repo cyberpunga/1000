@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/el-poeta-es-un-simple-locutor-el-no-responde-por-las-malas-noticias",
+    "result": {"pageContext":{"verso":"El poeta es un simple locutor\nél no responde por las malas noticias","autor":"Nicanor Parra","fuente":"Artefactos","next":{"verso":"¿El reino del poeta\nes sólo de este mundo?","autor":"Hugo Zambelli","fuente":"Pero después de todo..."},"prev":{"verso":"los poetas se odian\ntoman juntos pero se odian","autor":"Malú Urriola","fuente":"Gatos"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

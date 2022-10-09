@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/los-pajaros-vuelan-y-borran-con-sus-cantos-lo-que-escribo",
+    "result": {"pageContext":{"verso":"Los pájaros vuelan\ny borran con sus cantos\nlo que escribo.","autor":"Jaime Luis Huenún","fuente":"Cantos","next":{"verso":"Comienzas a escribir un poema\ncuyo tema es un lago profundo\nen esto te alcanza la noche\nahora no sabrás cómo volver.","autor":"Andrés Anwandter","fuente":"El árbol del lenguaje en otoño"},"prev":{"verso":"El pájaro de lujo ha cambiado de estrella","autor":"Vicente Huidobro","fuente":"Poema funerario a Guillaume Apollinaire"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

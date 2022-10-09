@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/los-poetas-bajaron-del-olimpo",
+    "result": {"pageContext":{"verso":"Los poetas bajaron del Olimpo.","autor":"Nicanor Parra","fuente":"Manifiesto","next":{"verso":"bajaron del monte\nOlimpo, cayeron de la montaña\nRusa se sacaron la cresta","autor":"Rodrigo Lira","fuente":"Ars poetique, deux"},"prev":{"verso":"Yo también soy un dios a mi manera\nUn creador que no produce nada","autor":"Nicanor Parra","fuente":"Versos sueltos"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

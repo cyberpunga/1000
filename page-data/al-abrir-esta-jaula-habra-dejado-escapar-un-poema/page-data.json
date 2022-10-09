@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/al-abrir-esta-jaula-habra-dejado-escapar-un-poema",
+    "result": {"pageContext":{"verso":"Al abrir esta jaula,\nHabrá dejado escapar un poema.","autor":"Jorge Torres","fuente":"No abra esta jaula","next":{"verso":"El pájaro de lujo ha cambiado de estrella","autor":"Vicente Huidobro","fuente":"Poema funerario a Guillaume Apollinaire"},"prev":{"verso":"Le dijo la lora al loro,\n- Lorito, dame la pata;\nel lorito le decía:\n- No te la doy, lora ingrata.","autor":"Bernardino Guajardo","fuente":"Celos de la lora al loro"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/ninguna-frase-ninguna-coma-ningun-texto-ningun-autor-ningun-delito-ningun-rencor-ninguna-ninguna-cancion-de-amor",
+    "result": {"pageContext":{"verso":"Ninguna frase, ninguna coma\nningún texto, ningún autor\nningún delito, ningún rencor\nninguna, ninguna canción de amor.","autor":"Juan Luis Martínez","fuente":"Un texto de nadie","next":{"verso":"A lo mejor debiera uno callarse\nPero no.","autor":"Carlos Trujillo","fuente":"A lo mejor debiera uno callarse"},"prev":{"verso":"Con vos quería hablar, hijo de la grandísima","autor":"Óscar Hahn","fuente":"Invocación al lenguaje"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

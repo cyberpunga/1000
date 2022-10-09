@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/quiero-una-estatua-en-cada-estrofa-mia-un-partenon-en-mi-inmortal-poema",
+    "result": {"pageContext":{"verso":"quiero una estatua en cada estrofa mía,\nun Partenón en mi inmortal poema.","autor":"Narciso Tondreau","fuente":"Ars relligio mea","next":{"verso":"alma infinita hazme\nrepetir a menudo\nla palabra gloria","autor":"Paulo de Jolly","fuente":"El rey sol"},"prev":{"verso":"Fluya el verso perfecto y terminado,\npulido igual a joya, porque es joya","autor":"Guillermo Trejo","fuente":"Ars poética"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

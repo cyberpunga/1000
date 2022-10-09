@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/movidas-son-las-olas-por-el-viento-y-el-pie-de-los-gladiolos-van-besando-al-son-de-un-suave-y-blando-movimiento",
+    "result": {"pageContext":{"verso":"Movidas son las olas por el viento\ny el pie de los gladiolos van besando\nal son de un suave y blando movimiento.","autor":"Óscar Hahn","fuente":"Gladiolos junto al mar","next":{"verso":"He aquí el mar\nEl mar que se estira y se aferra a sus orillas","autor":"Vicente Huidobro","fuente":"Monumento al mar"},"prev":{"verso":"Ante nosotros las olas\ncorren, corren sin cesar,\ncomo si algo persiguieran\nsin alcanzarlo jamás.","autor":"Manuel Magallanes Moure","fuente":"Jamás..."}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

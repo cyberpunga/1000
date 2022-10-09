@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/vino-blanco-vino-tinto-vino-del-padre-vino-del-hijo",
+    "result": {"pageContext":{"verso":"Vino blanco\nvino tinto\nvino del padre\nvino del hijo.","autor":"Cecilia Casanova","fuente":"Ángeles sobre las viñas","next":{"verso":"Un sandwich es algo que se mira con pasión","autor":"Federico Schopf","fuente":"Devoraos los unos a los otros"},"prev":{"verso":"bebo, bebo y no me embriago","autor":"María Monvel","fuente":"Orgía"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

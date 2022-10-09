@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/un-hombre-a-quien-no-conocia-aparece-en-los-diarios-de-todo-el-pais-esta-tirado-en-la-calle-tiene-el-cuerpo-perforado-ahora-todos-lo-conocemos",
+    "result": {"pageContext":{"verso":"Un hombre a quien no conocía\naparece en los diarios de todo el país\nEstá tirado en la calle\nTiene el cuerpo perforado:\nAhora todos lo conocemos.","autor":"Carmen Berenguer","fuente":"Desconocido","next":{"verso":"Apareció. Había desaparecido.\nPero apareció.","autor":"Gonzalo Millán","fuente":"La ciudad"},"prev":{"verso":"Comisaría chilena\nEs de tormento una sala,\nEn donde la jente mala\nTortura a la jente buena.","autor":"Juan Rafael Allende","fuente":"Tercera Comisaría en Chile"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

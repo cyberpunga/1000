@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/esta-bien-esta-bien-todo-esta-bien-solo-que-el-hambre-mata-ninos",
+    "result": {"pageContext":{"verso":"Está bien\nestá bien\ntodo está bien\nsólo que el hambre mata niños","autor":"Sergio Hernández","fuente":"Está bien","next":{"verso":"Piececitos de niño,\nazulosos de frío,\n¡cómo os ven y no os cubren,\nDios mío!","autor":"Gabriela Mistral","fuente":"Piececitos"},"prev":{"verso":"Todos los vecinos de mi barrio duermen siesta,\npero hay chicos que golpean puertas fastidiando:\npiden pan y no dejan\nescribir los mejores poemas sobre el hambre.","autor":"Jorge Montealegre","fuente":"Alta poesía"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/todo-lo-que-se-diga-de-mi-es-verdadero-y-la-verdad-es-que-no-me-importa-mucho",
+    "result": {"pageContext":{"verso":"Todo lo que se diga de mí es verdadero\nY la verdad es que no me importa mucho.","autor":"Jorge Teillier","fuente":"Pequeña confesión","next":{"verso":"Las verdades de ayer hoy son mentira,\nlas de hoy acaso lo serán mañana","autor":"Guillermo Blest Gana","fuente":"Lo único eterno"},"prev":{"verso":"Me retracto de todo lo dicho.\nCon la mayor amargura del mundo\nMe retracto de todo lo que he dicho.","autor":"Nicanor Parra","fuente":"Me retracto de todo lo dicho"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

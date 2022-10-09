@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/me-siento-un-millonario-de-sol-y-poesia",
+    "result": {"pageContext":{"verso":"Me siento un millonario\nde sol y poesía","autor":"Zoilo Escobar","fuente":"Mientras el sol visita mi ventana","next":{"verso":"Esta noche se anuncia un nuevo Sol.\nLa inteligencia brilla que se quiebra.","autor":"Antonio Cussen","fuente":"Mecenas"},"prev":{"verso":"Yo te recuerdo así,\ncomo un regalo innecesario de sol.","autor":"Rolando Cárdenas","fuente":"Mensaje de piedra para Magallanes"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

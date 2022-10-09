@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/usted-es-la-primera-vez-que-lee-un-poema-asi",
+    "result": {"pageContext":{"verso":"usted es la primera vez que lee un poema así","autor":"Erick Polhammer","fuente":"Usted","next":{"verso":"Pa’ cantar de improviso\nse requiere buen talento,\nmemoria y entendimiento,\nfuerza de gallo castizo","autor":"Violeta Parra","fuente":"Décimas"},"prev":{"verso":"No hay peor poema que el que no se escribe, me dije","autor":"Waldo Rojas","fuente":"Moscas"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

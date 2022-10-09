@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/a-recorrer-me-dedique-este-dia-las-solitarias-calles-de-mi-aldea-acompanado-por-el-buen-crepusculo-que-es-el-unico-amigo-que-me-queda",
+    "result": {"pageContext":{"verso":"A recorrer me dediqué este día\nlas solitarias calles de mi aldea\nacompañado por el buen crepúsculo\nque es el único amigo que me queda.","autor":"Nicanor Parra","fuente":"Hay un día feliz","next":{"verso":"La monótona vida provinciana\nrueda olorosa, tímida, inocente","autor":"Daniel de la Vega","fuente":"El bordado inconcluso"},"prev":{"verso":"Hay caminitos tristes, retorcidos,\npor donde vamos siempre\ncabizbajos y solos...","autor":"María Antonieta Le Quesne","fuente":"Recodo azul"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/triste-noche-es-el-pasado-sea-aurora-el-porvenir",
+    "result": {"pageContext":{"verso":"Triste noche es el pasado,\nsea aurora el porvenir!","autor":"Guillermo Matta","fuente":"Lo que dicen las olas","next":{"verso":"Sol extraño, de patología\nse ha desdoblado en mi corazón","autor":"Alberto Moreno","fuente":"De los poemas nuevos"},"prev":{"verso":"Quizá cuando la noche ya se vaya\nni un rastro haya de mí sobre la playa.","autor":"Pedro Antonio González","fuente":"Asteroides"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

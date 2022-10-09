@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/la-gente-comprende-y-dice-es-marica-pero-escribe-bien-es-marica-pero-es-buen-amigo-super-buena-onda-yo-no-soy-buena-onda",
+    "result": {"pageContext":{"verso":"La gente comprende y dice:\nEs marica pero escribe bien\nEs marica pero es buen amigo\nSuper-buena-onda\nYo no soy buena onda","autor":"Pedro Lemebel","fuente":"Manifiesto","next":{"verso":"Hace muchos siglos yo también fui un poeta joven","autor":"Javier Campos","fuente":"El poeta joven"},"prev":{"verso":"¡Soy poeta! ¡Tengo alas!","autor":"Ricardo Fernández Montalva","fuente":"Eros"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

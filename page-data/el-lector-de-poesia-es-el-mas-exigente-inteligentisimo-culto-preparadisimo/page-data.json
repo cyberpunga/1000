@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/el-lector-de-poesia-es-el-mas-exigente-inteligentisimo-culto-preparadisimo",
+    "result": {"pageContext":{"verso":"el lector de poesía\nes el más exigente inteligentísimo\nculto preparadísimo!","autor":"Rodrigo Lira","fuente":"Sermón de los hombrecitos magentas","next":{"verso":"Se me seque el hocico\nsi te critico","autor":"Adán Méndez","fuente":"Segundos sonetos comprimidos"},"prev":{"verso":"Usted no tiene la culpa\nDe sentirse culpable\nDe no saber leer. Sabe\nLeer\nMas no lo suficiente.","autor":"Erick Polhammer","fuente":"Es que es usted..."}}},
+    "staticQueryHashes": ["2744905544","339503275"]}

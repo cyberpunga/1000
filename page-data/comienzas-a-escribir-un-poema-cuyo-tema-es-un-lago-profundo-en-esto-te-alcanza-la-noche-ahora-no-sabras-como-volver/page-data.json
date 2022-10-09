@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/comienzas-a-escribir-un-poema-cuyo-tema-es-un-lago-profundo-en-esto-te-alcanza-la-noche-ahora-no-sabras-como-volver",
+    "result": {"pageContext":{"verso":"Comienzas a escribir un poema\ncuyo tema es un lago profundo\nen esto te alcanza la noche\nahora no sabrás cómo volver.","autor":"Andrés Anwandter","fuente":"El árbol del lenguaje en otoño","next":{"verso":"Estas palabras, signos, pequeñas osamentas\ndel arte de no decir nada","autor":"Luis Kong","fuente":"17"},"prev":{"verso":"Los pájaros vuelan\ny borran con sus cantos\nlo que escribo.","autor":"Jaime Luis Huenún","fuente":"Cantos"}}},
+    "staticQueryHashes": ["2744905544","339503275"]}
